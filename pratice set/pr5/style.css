@@ -1,0 +1,8 @@
+.cl{
+    background-image: url(pic1.jpg);
+     background-size: cover;
+     position:fixed  ;
+     bottom: 0px;
+     height: 200px;
+     width: 200px;
+}
